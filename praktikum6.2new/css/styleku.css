@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    font-family: sans-serif;
+
+}
+
+h1{
+        text-align: center;
+    color: blueviolet;
+}
+
+p{
+    text-align: center;
+    width: fit-content;
+}
+
+blockquote{
+    background-color: blueviolet;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+
+
